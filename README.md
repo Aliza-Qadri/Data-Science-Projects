@@ -1,6 +1,5 @@
 # Data-Science-Projects
 # Pandas First Mini Project Automated Assessment of Academic Performance with Python
-•	Conducted an in-depth Exploratory Data Analysis (EDA) on student performance data to uncover patterns and provide insights for academic improvements.
-•	Automated data cleaning, transformation, and aggregation to generate actionable metrics for student performance evaluation.
-•	Utilized Python libraries like Pandas, NumPy, and Regex for efficient data manipulation, advanced filtering, and EDA.
-•	As a Data Analyst, independently managed data preprocessing and integration of multiple datasets to produce a comprehensive analysis report.
+	In my role as a Data Analyst, I conducted a thorough exploratory data analysis (EDA) on student performance data, delving deep into the patterns and trends within the dataset to derive actionable insights aimed at academic improvement. This project involved automating various steps of data preparation, including data cleaning, transformation, and aggregation. By creating an automated pipeline, I ensured that raw data could be swiftly processed to produce key metrics relevant to evaluating student performance.
+
+Leveraging powerful Python libraries such as Pandas, NumPy, and Regex, I streamlined data manipulation and applied advanced filtering techniques, making the EDA both efficient and comprehensive. I independently handled the preprocessing and integration of multiple datasets, synthesizing diverse data sources to create a unified, insightful view of the student performance landscape. This integration allowed for a more holistic analysis, providing stakeholders with an in-depth report that highlighted essential findings and metrics to support data-driven decisions for academic enhancements.
